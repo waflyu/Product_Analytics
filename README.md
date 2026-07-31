@@ -4,6 +4,15 @@
 
 ## Навыки
 
+SQL Project
+
+Skills:
+- SELECT
+- WHERE
+- GROUP BY
+- COUNT
+- AVG
+- Aggregation
 - Python (Pandas)
 - Анализ пользовательского поведения
 - Продуктовые метрики
